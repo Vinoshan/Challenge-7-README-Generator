@@ -42,7 +42,8 @@ After completing all the prompts, the application will automatically generate a 
 ## Screenshots / Video
 
 [![Video of Program Running](./assets/video/screenrecord.webm?raw=true)]
-[![YouTube Video of Program Running](https://www.youtube.com/watch?v=bgLx07irYY0)]
+
+[![Challenge-7-README-Generator](http://img.youtube.com/vi/bgLx07irYY0/0.jpg)](http://www.youtube.com/watch?v=bgLx07irYY0)
 
 ## Contributing
 

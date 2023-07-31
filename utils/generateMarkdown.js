@@ -1,5 +1,3 @@
-// generateMarkdown.js
-
 // Function to render the license badge based on the chosen license
 function renderLicenseBadge(license) {
   const badges = {

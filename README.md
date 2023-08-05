@@ -18,7 +18,7 @@ Creating a detailed README for your project is an essential step in effective pr
 
 ## Installation
 
-To use the Challenge-7-README-Generator, follow these steps:
+To use the README-Generator, follow these steps:
 
 1. Clone the GitHub repository to your local machine.
 2. Open a terminal and navigate to the project's root directory.

@@ -1,4 +1,4 @@
-# Challenge-7-README-Generator
+# README-Generator
 
 A command-line application that generates a professional README.md file for your projects. The application prompts the user with a series of questions about their project and uses the provided answers to generate a comprehensive README file.
 

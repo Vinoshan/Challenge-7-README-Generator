@@ -57,7 +57,6 @@ The Challenge-7-README-Generator is open-source software licensed under the MIT 
 
 If you have any questions, feedback, or inquiries, feel free to contact the developer:
 
-Email: your-email@example.com
-GitHub: github.com/your-username
-LinkedIn: linkedin.com/in/your-username
-Twitter: twitter.com/your-username
+- Email: vinoshan@outlook.com 
+- GitHub: github.com/vinoshan 
+- LinkedIn: https://www.linkedin.com/in/vinoshank/
